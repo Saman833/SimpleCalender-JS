@@ -22,7 +22,6 @@
 }
 html, body {
     height: 100%;
-    /* background: rgb(242, 0, 255); */
    } 
 .calendar-container {
     height: 100%;
@@ -61,12 +60,9 @@ html, body {
     font-style: italic;
     color: #2fcf5f;
 } 
-/* color: #7267a0 */
 .write-in-Center{
     display: flex;
     justify-content: center;
     align-items: center;
-    /* border: 2px solid red;
-    border-radius: 50%;
-    padding: 5px; */
+  
 }
